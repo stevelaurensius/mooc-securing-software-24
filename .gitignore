@@ -1,5 +1,5 @@
 /.tmc.json
-/.gitignore
+/Pipfile
 /part2-08.hellodatabase
 /part2-09.helloinsert
 /part2-10.hellowebwithdatabase
