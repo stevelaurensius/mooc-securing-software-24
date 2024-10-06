@@ -1,6 +1,4 @@
 /.tmc.json
-/.gitignore
-/Pipfile
 /part2-10.hellowebwithdatabase
 /part2-11.banktransfer
 /part2-12.simplebanking
