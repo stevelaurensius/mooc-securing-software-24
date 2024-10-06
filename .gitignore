@@ -1,4 +1,9 @@
 /.tmc.json
+<<<<<<< HEAD
+=======
+/.gitignore
+/Pipfile
+>>>>>>> 25cd0e79f9e9a8dfad858836d66e14f856353169
 /part2-10.hellowebwithdatabase
 /part2-11.banktransfer
 /part2-12.simplebanking
